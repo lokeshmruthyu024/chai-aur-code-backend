@@ -1,1 +1,1 @@
-// did until 22 mins
+export const DB_NAME = 'youtube'
